@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\ManualWordReversal\bin\Debug\ManualWordReversal.exe.config
+C:\Users\HP\source\repos\ManualWordReversal\bin\Debug\ManualWordReversal.exe
+C:\Users\HP\source\repos\ManualWordReversal\bin\Debug\ManualWordReversal.pdb
+C:\Users\HP\source\repos\ManualWordReversal\obj\Debug\ManualWordReversal.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\ManualWordReversal\obj\Debug\ManualWordReversal.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ManualWordReversal\obj\Debug\ManualWordReversal.exe
+C:\Users\HP\source\repos\ManualWordReversal\obj\Debug\ManualWordReversal.pdb
